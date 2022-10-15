@@ -1,3 +1,26 @@
+# Some tips
+Install Angular CLI
+	npm install -g @angular/cli
+
+Create new workspace
+	ng new my-app
+	cd my-app
+
+	ng serve --open
+
+	ng generate service hero
+
+
+if got error: spawn EPERM at ChildProcess.swn
+npm run-script ng serve -o
+
+
+git config --global user.email "lehoangphuclam@gmail.com"
+
+git config --global user.email
+git config --global user.name
+
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
