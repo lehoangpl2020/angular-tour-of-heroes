@@ -20,6 +20,11 @@ git config --global user.email "lehoangphuclam@gmail.com"
 git config --global user.email
 git config --global user.name
 
+# Http client simulator
+- angular in memory web [api](https://github.com/angular/angular/tree/main/packages/misc/angular-in-memory-web-api)
+    npm install angular-in-memory-web-api --save
+
+
 
 # AngularTourOfHeroes
 
