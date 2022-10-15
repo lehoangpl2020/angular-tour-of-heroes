@@ -37,6 +37,7 @@ export class HeroDetailComponent implements OnInit {
     this.location.back();
     // test
     // test 2
+    // test 3
   }
 
 }
